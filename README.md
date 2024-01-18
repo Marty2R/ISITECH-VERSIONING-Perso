@@ -4,6 +4,9 @@
 
 ### TP.1 
 
+**Objectif :** Se familiariser avec les commandes de base de Git.
+**Dépôt utilisé :** Microsoft Visual Studio Code (https://github.com/microsoft/vscode)
+
 1. Clone le depôt git vscode :
 
 ![Alt text](clone_repo_vscode.png)
@@ -23,11 +26,17 @@
 
 ### TP.2
 
+**Objectif :** Comprendre l'importance des messages de commit clairs et des conventions de nommage.
+**Dépôt utilisé :** Ruby on Rails (https://github.com/rails/rails)
+
 1. 
 
 2. 
 
 ### TP.3 
+
+**Objectif :** Maîtriser les opérations avancées de Git telles que le branching, merging et la résolution de conflits.
+**Dépôt utilisé :** React (https://github.com/facebook/react)
 
 1. Créer des branches pour des fonctionnalités hypothétiques,fusionner ces branches.
 
@@ -44,3 +53,10 @@
 2. Simuler un conflit de merge et le résoudre.
 
 - ![Alt text](conflit.png)
+
+### TP.4
+
+**Objectif :** Pratiquer la revue de code et comprendre l'utilisation des pull/merge requests.
+**Dépôt utilisé :** TensorFlow (https://github.com/tensorflow/tensorflow)
+
+1. Examiner les pull requests ouvertes et fermées pour comprendre comment la revue de code est gérée.
