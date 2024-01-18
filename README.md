@@ -52,7 +52,11 @@
 
 2. Simuler un conflit de merge et le résoudre.
 
-- ![Alt text](conflit.png)
+- Conflit :
+![Alt text](conflit.png)
+- Résolution du conflit :
+![Alt text](resolve_conflit.png)
+
 
 ### TP.4
 
